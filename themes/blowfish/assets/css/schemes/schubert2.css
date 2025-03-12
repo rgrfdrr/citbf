@@ -1,0 +1,38 @@
+/* Slate scheme */
+:root {
+  --color-neutral: 255, 255, 255;
+  /* Negro */
+  --color-neutral-50:     255,255,255;
+  --color-neutral-100:    255,255,255;
+  --color-neutral-200:    214,219,222;
+  --color-neutral-300:    172,183,188;
+  --color-neutral-400:    129,146,154;
+  --color-neutral-500:    92,107,115;
+  --color-neutral-600:    74,86,92;
+  --color-neutral-700:    56,65,70;
+  --color-neutral-800:    38,44,47;
+  --color-neutral-900:    19,23,24;
+  /* Schubert */
+  --color-primary-50: 255, 249, 196;   /* Muy claro, casi blanco */
+  --color-primary-100: 255, 244, 158;  /* Claro, suave */
+  --color-primary-200: 254, 238, 120;  /* Amarillo pálido */
+  --color-primary-300: 253, 232, 82;   /* Amarillo más vibrante */
+  --color-primary-400: 245, 210, 48;   /* Amarillo dorado */
+  --color-primary-500: 244, 197, 1;    /* Color base */
+  --color-primary-600: 196, 157, 1;    /* Amarillo mostaza */
+  --color-primary-700: 158, 120, 1;    /* Amarillo oscuro */
+  --color-primary-800: 120, 82, 1;     /* Amarillo con tono marrón */
+  --color-primary-900: 82, 56, 1;      /* Muy oscuro, casi marrón */
+ 
+  /* Negro */
+  --color-neutral-50:     255,255,255;
+  --color-neutral-100:    255,255,255;
+  --color-neutral-200:    214,219,222;
+  --color-neutral-300:    172,183,188;
+  --color-neutral-400:    129,146,154;
+  --color-neutral-500:    92,107,115;
+  --color-neutral-600:    74,86,92;
+  --color-neutral-700:    56,65,70;
+  --color-neutral-800:    38,44,47;
+  --color-neutral-900:    19,23,24;
+}
