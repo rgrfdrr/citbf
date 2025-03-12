@@ -4,6 +4,11 @@ draft = false
 title = 'Congreso Internacional de Transparencia y Buen Gobierno'
 +++
 
+{{< button href="programa" target="_self" >}}
+Programa
+{{< /button >}}
+
+
 En las nueve ediciones anteriores el Congreso Internacional de Transparencia y Gobierno Abierto se ha consolidado como un lugar de encuentro de académicos, funcionarios, periodistas, políticos, activistas de la sociedad civil y, en general, personas preocupadas por una democracia avanzada en la que la transparencia pública es un elemento esencial.
 
 
